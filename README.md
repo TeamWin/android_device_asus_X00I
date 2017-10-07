@@ -1,7 +1,7 @@
 Device Tree for Asus Zenfone 4 Max
 ==============================================
 
-Asus Zenfone 4 Max (codenamed "X00ID") is a mid-range smartphone from Asus.
+Asus Zenfone 4 Max (codenamed "X00I") is a mid-range smartphone from Asus.
 It was released in September 2017.
 
 Basic   | Spec Sheet

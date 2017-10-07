@@ -34,8 +34,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := X00ID
-PRODUCT_NAME := full_X00ID
+PRODUCT_DEVICE := X00I
+PRODUCT_NAME := full_X00I
 PRODUCT_BRAND := Asus
 PRODUCT_MODEL := Zenfone 4 Max Pro
 PRODUCT_MANUFACTURER := Asus

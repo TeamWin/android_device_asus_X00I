@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_X00ID.mk \
-	$(LOCAL_DIR)/full_X00ID.mk
+	$(LOCAL_DIR)/omni_X00I.mk \
+	$(LOCAL_DIR)/full_X00I.mk
