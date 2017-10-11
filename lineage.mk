@@ -15,9 +15,7 @@
 #
 
 
-$(call inherit-product, device/asus/X00ID/full_X00I.mk)
+$(call inherit-product, device/asus/X00I/full_X00I.mk)
 
-# Inherit some common Omni stuff.
-$(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_NAME := lineage_X00I
