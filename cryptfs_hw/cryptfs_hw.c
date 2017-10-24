@@ -61,7 +61,7 @@
 #define MAX_DEVICE_ID_LENGTH 4 /* 4 = 3 (MAX_SOC_ID_LENGTH) + 1 */
 
 static unsigned int cpu_id[] = {
-	239, /* MSM8937 SOC ID */
+	239, /* MSM8939 SOC ID */
 };
 
 #define KEYMASTER_PARTITION_NAME "/dev/block/bootdevice/by-name/keymaster"
